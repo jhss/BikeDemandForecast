@@ -35,13 +35,13 @@ The dataset was brought from the Seoul bike dataset in Kaggle.
 
 ### (1) Regression
 
-![regression](./img/regression.PNG)
-ㄴ
+![regression](https://raw.githubusercontent.com/jhss/BikeDemandForecast/main/img/arima.png)
+
 **R2-Score: 70.03%**
 
 ### (2) Seasonal ARIMA
 
-![arima](./img/ARIMA.PNG)
+![arima](https://raw.githubusercontent.com/jhss/BikeDemandForecast/main/img/arima.png)
 
 **R2-Score: 63.53%**
 
